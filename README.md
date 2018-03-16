@@ -17,7 +17,7 @@ $ java -jar "ImageProcessor.jar"
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
 
-Notes:
+### Notes:
 
 * If two JAR files on the project classpath have the same name, only the first
 JAR file is copied to the lib folder.
